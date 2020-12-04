@@ -11,6 +11,5 @@
 *.env
 .prettierrc
 
-web/public
 # Local Netlify folder
 .netlify
