@@ -1,0 +1,16 @@
+.doc {
+  &__block {
+    a {
+      transition: all 0.3s ease-in-out;
+      &:hover {
+        background-color:rgba(4, 24, 147, 0.1);
+      }
+    }
+    p {
+      &:last-child {
+        margin-bottom: 0;
+        padding-bottom: 0;
+      }
+    }
+  }
+}

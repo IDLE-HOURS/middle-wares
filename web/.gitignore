@@ -1,0 +1,34 @@
+# dependencies
+/node_modules
+
+# misc
+.DS_Store
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+.env
+.cache
+
+
+# gatsby files
+.cache/
+public
+
+# Yarn
+yarn-error.log
+.pnp/
+.pnp.js
+yarn.lock
+
+# NPM
+package-lock.json
+
+# Yarn Integrity file
+.yarn-integrity
+
+# Local Netlify folder
+.netlify
+
+# Functions transpiled by Netlifa-Lambda
+functions/*.js

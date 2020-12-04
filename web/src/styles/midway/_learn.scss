@@ -1,0 +1,21 @@
+/* Custom Styles just for the Learn Page */
+
+.midway {
+  .pre {
+    background-color: white;
+    padding: 0 0.2rem;
+    border: 1px solid gray;
+    &.warning {
+      background-color: lightgoldenrodyellow;
+    }
+  }
+  .callout {
+    background-color: lightgrey;
+  }
+  .bold {
+    font-weight: 600;
+  }
+  &__logo {
+    width: 30px;
+  }
+}
